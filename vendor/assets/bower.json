@@ -1,0 +1,6 @@
+{
+  "name": "dsl-generated dependencies",
+  "dependencies": {
+    "d3": "git://github.com/mbostock/d3#3.4.11"
+  }
+}
