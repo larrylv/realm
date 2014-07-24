@@ -14,4 +14,5 @@ tmp/*
 tmp/**/*
 .env
 .foreman
+/vendor/assets/bower_components
 
