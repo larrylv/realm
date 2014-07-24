@@ -15,6 +15,8 @@ gem 'jbuilder', '~> 2.0'
 gem 'bower-rails', '~> 0.8.2'
 gem 'pry-rails'
 
+gem 'settingslogic'
+
 group :devleopment do
   gem 'spring'
   gem 'quiet_assets'
