@@ -13,6 +13,7 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 
 gem 'bower-rails', '~> 0.8.2'
+gem 'pry-rails'
 
 group :devleopment do
   gem 'spring'
