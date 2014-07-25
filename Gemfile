@@ -18,8 +18,6 @@ gem 'pry-rails'
 gem 'settingslogic'
 
 group :devleopment do
-  gem 'sqlite3'
-
   gem 'spring'
   gem 'better_errors'
   gem 'foreman'
