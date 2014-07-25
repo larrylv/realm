@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(".c_charts.a_population").ready(function() {
   var margin = {top: 40, right: 40, bottom: 40, left: 80},
       width  = 1366 - margin.left - margin.right;
       height = 600 - margin.top - margin.bottom;
