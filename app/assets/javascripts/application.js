@@ -10,8 +10,8 @@
 // Read Sprockets README (https://github.com/sstephenson/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require d3/d3
-//= require jquery
+//= require d3/d3.min
+//= require jquery.min
 //= require jquery_ujs
 //= require jquery-readyselector/jquery.readyselector
 //= require_tree .
