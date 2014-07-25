@@ -23,8 +23,6 @@ group :devleopment do
   gem 'foreman'
 
   gem 'thin'
-
-  gem 'capybara'
 end
 
 group :production do
