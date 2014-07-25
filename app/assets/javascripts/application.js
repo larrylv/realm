@@ -13,4 +13,5 @@
 //= require d3/d3
 //= require jquery
 //= require jquery_ujs
+//= require jquery-readyselector/jquery.readyselector
 //= require_tree .

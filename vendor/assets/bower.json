@@ -1,6 +1,7 @@
 {
   "name": "dsl-generated dependencies",
   "dependencies": {
-    "d3": "git://github.com/mbostock/d3#3.4.11"
+    "d3": "git://github.com/mbostock/d3#3.4.11",
+    "jquery-readyselector": "git://github.com/Verba/jquery-readyselector"
   }
 }
